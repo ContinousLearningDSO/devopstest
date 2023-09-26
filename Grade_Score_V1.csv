@@ -1,0 +1,9 @@
+﻿Student ID,Student Name,Q1 Score,Q2 Score,Q3 Score,Q4 Score,Total,Perct,Pass/Fail
+1001,Dave,35,42,33,54,164,41%,Pass
+1002,Michael,82,33,44,62,221,55%,Pass
+1003,Ilan,77,91,81,32,281,70%,Pass
+1004,Jeff,96,99,84,86,365,91%,Pass
+1005,Martin,22,11,41,33,107,27%,Fail
+1006,Michael Jr,77,77,77,77,308,77%,Pass
+1007,Michael Sr,49,41,51,42,183,46%,Pass
+1008,Kenneth,33,17,89,98,237,59%,Pass
